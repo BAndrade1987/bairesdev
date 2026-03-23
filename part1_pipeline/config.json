@@ -1,0 +1,4 @@
+{
+    "output_file": "processed_users.csv",
+    "log_file": "pipeline.log"
+}
